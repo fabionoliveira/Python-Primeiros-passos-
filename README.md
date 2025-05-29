@@ -1,4 +1,4 @@
 # Python primeiros passos. 
-Aprendendo Python.
+Primeiros passos com python.
 
 Meu primeiro repositório no Github.com
